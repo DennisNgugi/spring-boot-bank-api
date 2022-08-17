@@ -1,0 +1,15 @@
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\BankApplication.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\utils\Utils.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\model\Transaction.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\repositories\AccountRepository.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\model\TransactionType.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\repositories\TransactionRepository.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\dto\AccountDTO.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\pojos\ResourceResponse.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\model\Account.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\configurations\ConfigProperties.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\services\AccountService.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\utils\LogsManager.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\controller\AccountController.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\dto\DepositRequest.java
+C:\Users\DMUTHOGA\IdeaProjects\bank\src\main\java\com\example\bank\dto\WithdrawRequest.java
